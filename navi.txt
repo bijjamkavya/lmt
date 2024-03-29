@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <title></title>
+    <body>
+        <frameset row="100%">
+            <h1>Heading </h1>
+	</frameset>
+            <framset col="*,600,*">
+            <frame src="ifa.html">iframe</frame>
+	    <frame src="sec.html">iframe</frame>
+
+        </frameset>
+    </body>
+</html>

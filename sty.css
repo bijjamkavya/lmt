@@ -1,0 +1,16 @@
+.first{
+    color:red
+}
+#blue{
+    color:blue
+}
+h3[draggable]{
+    color:yellowgreen
+}
+*{
+    color:orange
+}
+body{
+    text-align: left;
+    font-family: bold,italic,arial;
+}
